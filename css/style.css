@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+}
+h1{
+    background-color: blueviolet;
+}
+p{
+    background-color: cadetblue;
+}
+h2{
+    background-color: darkcyan;
+}
+h2+p{
+    background-color: darkgoldenrod;
+}
+ul{
+    background-color: grey;
+}
+#q{
+    color: darkgreen;
+}
+#w{
+    color: darkslateblue;
+}
+#e{
+    color: firebrick;
+}
+#r{
+    color: fuchsia;
+}
+#t{
+    color: greenyellow;
+}
